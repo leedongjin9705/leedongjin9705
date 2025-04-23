@@ -1,6 +1,6 @@
 <h4> Experience </h4>
 
-- `WEBSTYLE 기술개발팀 백엔드`  <sub>(24.10 ~ 현재)</sub>
+- `WEBSTYLE 기술개발팀 프론트, 백엔드, DBA`  <sub>(24.10 ~ 현재)</sub>
 <hr>
 
 <h4> Certificate </h4>
